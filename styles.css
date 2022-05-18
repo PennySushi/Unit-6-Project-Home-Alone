@@ -1,0 +1,75 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.beginning {
+    font-size: 40px;
+    background-color: red;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-family: 'Coiny', cursive;
+    background-color: #cc99ff;
+    color: white;
+}
+
+
+.Part-Two-No {
+    font-family: 'Coiny', cursive;
+
+}
+
+.Story-Ending-Yes {
+    font-family: 'Coiny', cursive;
+    background-color: #cc66ff;
+}
+
+.Story-Ending-No {
+    font-family: 'Coiny', cursive;
+}
+
+.caught-img {
+    height: 300px;
+}
+
+.stairs-img {
+    height: 300px;
+}
+
+.phone-img {
+    height: 300px;
+}
+
+.knockedout-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
